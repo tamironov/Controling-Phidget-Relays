@@ -2,6 +2,7 @@ PhidgetInterfaceKit 0/0/4 Relay Controller with Timer
 
 A Python GUI application (Tkinter) for controlling the PhidgetInterfaceKit 0/0/4 relay board.
 This tool provides both manual relay toggling and automated on/off timing control with counters and time tracking.
+
 <img width="403" height="283" alt="GUI1" src="https://github.com/user-attachments/assets/196cd2c9-4c48-4b4d-b18a-7564309ddcb1" />
 
 **Features**
